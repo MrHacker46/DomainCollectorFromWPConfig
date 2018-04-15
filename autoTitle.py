@@ -2,8 +2,11 @@
 import MySQLdb as db
 import os
 # Thirdparty modules installation required!
+# Coded by : 3XPL0173R~X3D
+# Team : TeaM_CC aka Cyber Commmandos
 # Linux: pip install MySQL-python
 # Windows: download binary executable of MySQLdb from the repository listing
+# Repository: https://github.com/TheChoyon/DomainCollectorFromWPConfig
 PORT = 3306
 tableprefix = ''
 def extract(fileName):
