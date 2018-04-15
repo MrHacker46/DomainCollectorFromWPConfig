@@ -3,7 +3,7 @@ A script made to collect the domains list from MySQL database and list them in a
 
 Trailer:
 -------
-Are you bored collecting domain names of lot of wordpress sites configuration file? Now pain is no more! Here comes my script to do all these things in a moment! Third party module installation is required for mySQL connection and data grabbing.
+Are you bored collecting domain names from checking lot of wordpress sites configuration file? Now pain is no more! Here comes my script to do all these things in a moment! Third party module installation is required for mySQL connection and data grabbing.
 
 Before You Begin:
 ---------------
